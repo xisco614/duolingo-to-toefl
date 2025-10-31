@@ -1,6 +1,6 @@
 # 🗓️ Daily English Study Log
 
-![Date](https://img.shields.io/badge/Date-2025--10--25-blue?style=flat-square)
+![Date](https://img.shields.io/badge/Date-2025--10--30-blue?style=flat-square)
 ![Level](https://img.shields.io/badge/Level-Intermediate-green?style=flat-square)
 ![Source](https://img.shields.io/badge/Source-BBC%20%26%20YouTube-orange?style=flat-square)
 ![Category](https://img.shields.io/badge/Category-English%20Listening%20%26%20Vocabulary-purple?style=flat-square)
